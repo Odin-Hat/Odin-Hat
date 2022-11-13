@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header)
-
+<br><br>
 <img src="https://img.shields.io/static/v1?label=Blog&message=Odin-Hat&color=7159c1&style=for-the-badge&logo=ghost" href="https://www.linkedin.com/in/matheus-torres-b7314b234/"/>
+<br><br>
 
 -----
 <h4 align="center"> 
@@ -8,39 +9,55 @@
 </h4>
 
 -------
-
+<br><br>
 <h1 align="center">Odin Hat</h1>
-<p align=center">Criando Caminhos com linhas de códigos e muito machine learning</p>
+<p align=center">Criando Caminhos com linhas de códigos!</p>
 
-
+<br><br>
 ## Objetivo: 
 Meu objetivo é mostrar que a tecnologia é o caminho mais rápido para o futuro.
 
-## Tecnologias: 
-Uso Python é a única linguagem que sei, tô bem no básico em HTML, css e lua
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Termux" height=30" width"40" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Termux.svg">
-</div>
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+
+![Termux](https://img.shields.io/badge/-Termux-05122A?style=flat&logo=termux)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+<br><br>
+## 👨‍💻 &nbsp;Studying
+
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Odin-Hat&show_icons=true&theme=vision-friendly-dark" alt="Odin-Hat's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Odin-Hat&layout=compact&theme=vision-friendly-dark" alt="Odin-Hat's most languages"/>
+</p>
 
 ## Sobre mim:
-<br>
+<br><br>
 • Gosto muito de programar em Python, gosto de assistir animes também e não tem anime melhor do que o próprio *One Piece*.
-<br>
+<br><br>
 • Sou muito melhor programando em python do que em outra linguagem mas ainda assim sei um pouco de HTML, css, lua.
-<br>
-<br>
+<br><br>
 <div>
-<br>
+<br><br>
   <a href="https://www.instagram.com/theuz_god000/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
    <a href = "mailto: theuz321torres@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/mwlite/in/matheus-torres-b7314b234" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<br>
+<br><br>
 </div>
-<br>
+<br><br>
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
