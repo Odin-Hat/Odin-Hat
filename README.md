@@ -60,4 +60,7 @@ Meu objetivo é mostrar que a tecnologia é o caminho mais rápido para o futuro
 </div>
 <br><br>
 
+
+![Snake animation](https://github.com/Odin-Hat/Odin-Hat/blob/output/github-contribution-grid-snake.svg)
+
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
