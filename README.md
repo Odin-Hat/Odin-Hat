@@ -14,7 +14,7 @@
 <p align=center">Criando Caminhos com linhas de códigos!</p>
 
 <br><br>
-## Objetivo: 
+## 📌Objetivo: 
 Meu objetivo é mostrar que a tecnologia é o caminho mais rápido para o futuro.
 
 <br><br>
