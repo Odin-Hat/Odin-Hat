@@ -12,6 +12,7 @@
 <br><br>
 <h1 align="center">Odin Hat</h1>
 <p align=center">Criando Caminhos com linhas de códigos!</p>
+<p align=center">A tecnologia me permite ver cada instante!</p>
 
 <br><br>
 ## 📌Objetivo: 
